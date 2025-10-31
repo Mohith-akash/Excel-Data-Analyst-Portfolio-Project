@@ -2,13 +2,13 @@
 
 This repository contains a comprehensive data analysis of **12,894 unique job postings**, built end-to-end in Microsoft Excel. The project transforms 60MB of raw, messy data into a fully interactive, multi-chart dashboard.
 
-This project demonstrates advanced proficiency in **Power Query**, the **Power Pivot Data Model**, **DAX**, and **Git LFS**.
+This project demonstrates advanced proficiency in **Power Query**, the **Power Pivot Data Model**, **DAX**.
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Top Skills](DashBoard%202.png)
+![Top 15 Skills](Dashboard%202.png)
 ![Most Required Postings](DashBoard%201.png)
 ![Job Postings by Country](Dashboard%203.png)
 ![Most Used Words](Dashboard%204.png)
