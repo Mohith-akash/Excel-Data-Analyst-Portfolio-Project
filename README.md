@@ -52,3 +52,17 @@ This project demonstrates advanced proficiency in **Power Query**, the **Power P
 * **`Data Analysis Job Analysis Final.xlsx` (35MB):** The final Excel workbook containing all Power Query steps, the Data Model, DAX measures, and the interactive dashboard.
 * **`raw postings file.csv` (60MB):** The original, raw data source.
 * **`DashBoard 1.png`, `Dashboard 2.png`, `Dashboard 3.png`, `Dashboard 4.png`:** Screenshots of the final dashboard.
+* **`analysis.py`, `requirements.txt`:** Python companion script (see below).
+
+---
+
+## Python Companion Script
+
+`analysis.py` reproduces the "Top Skills by Demand" finding in ~30 lines of pandas as a sanity check against the Power Query / DAX version in the `.xlsx` file. It returns the same top 3 — Data Analysis, SQL, Project Management — from the raw CSV. The full analysis (70+ Power Query steps, the Data Model, DAX measures, and the interactive dashboard) is in the workbook; the script is just a code artifact for reviewers who want to see the core transformation logic at a glance.
+
+Run it with:
+
+```
+pip install -r requirements.txt
+python analysis.py
+```
