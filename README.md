@@ -1,12 +1,12 @@
 # Advanced Excel Data Analyst Portfolio Project
 
-This repository contains a comprehensive data analysis of **12,894 unique job postings**, built end-to-end in Microsoft Excel. The project transforms 60MB of raw, messy data into a fully interactive, multi-chart dashboard.
+This repository contains a detailed analysis of **12,894 unique job postings**, built entirely in Microsoft Excel. The project transforms 60MB of raw, messy data into a fully interactive, multi-chart dashboard.
 
 This project demonstrates advanced proficiency in **Power Query**, the **Power Pivot Data Model**, **DAX**.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Top 15 Skills](Dashboard%202.png)
 ![Most Required Postings](DashBoard%201.png)
@@ -15,7 +15,7 @@ This project demonstrates advanced proficiency in **Power Query**, the **Power P
 
 ---
 
-## 📈 Key Findings & Statistics
+## Key Findings & Statistics
 
 * **Total Jobs Analyzed:** **12,894** unique postings.
 * **Skill Analysis:** Processed **228,745** individual skill mentions. The top 3 skills are **Data analysis**, **SQL**, and **Project management**.
@@ -25,7 +25,7 @@ This project demonstrates advanced proficiency in **Power Query**, the **Power P
 
 ---
 
-## 🛠️ Technical Workflow & Skills Demonstrated
+## Technical Workflow & Skills Demonstrated
 
 ### 1. Data Cleaning & Transformation (Power Query)
 * Executed **70+ sequential steps** to clean and standardize the 13k-row dataset.
@@ -47,8 +47,8 @@ This project demonstrates advanced proficiency in **Power Query**, the **Power P
 
 ---
 
-## 📁 Files in this Repository
+## Files in this Repository
 
 * **`Data Analysis Job Analysis Final.xlsx` (35MB):** The final Excel workbook containing all Power Query steps, the Data Model, DAX measures, and the interactive dashboard.
 * **`raw postings file.csv` (60MB):** The original, raw data source.
-* **`DashBoard 1.png`, `DashBoard 2.png`, `Dashboard 3.png`, `Dashboard 4.png`:** Screenshots of the final dashboard.
+* **`DashBoard 1.png`, `Dashboard 2.png`, `Dashboard 3.png`, `Dashboard 4.png`:** Screenshots of the final dashboard.
